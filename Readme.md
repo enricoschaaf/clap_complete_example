@@ -19,3 +19,5 @@ echo "source <(COMPLETE=zsh your_program)" >> ~/.zshrc
 2. cargo install --path .
 
 3. Try to get completions
+
+Tested using cargo and rust nightly
